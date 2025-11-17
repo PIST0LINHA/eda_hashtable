@@ -137,7 +137,7 @@ int main()
 		n_chaves--;
 	  }
 	  n_chaves = i;
-	  //printf("colisoes: %d | n_chaves: %d\n", colisao, n_chaves);
+	  printf("colisoes: %d | n_chaves: %d\n", colisao, n_chaves);
 	}
   return 0;
 }
